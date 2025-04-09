@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\Aniket Gawade\classes\bin\Debug\classes.exe.config
+C:\Users\Windows\Desktop\Aniket Gawade\classes\bin\Debug\classes.exe
+C:\Users\Windows\Desktop\Aniket Gawade\classes\bin\Debug\classes.pdb
+C:\Users\Windows\Desktop\Aniket Gawade\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Aniket Gawade\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Aniket Gawade\classes\obj\Debug\classes.exe
+C:\Users\Windows\Desktop\Aniket Gawade\classes\obj\Debug\classes.pdb

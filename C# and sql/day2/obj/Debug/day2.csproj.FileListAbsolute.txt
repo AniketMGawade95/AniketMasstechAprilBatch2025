@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\Aniket Gawade\day2\bin\Debug\day2.exe.config
+C:\Users\Windows\Desktop\Aniket Gawade\day2\bin\Debug\day2.exe
+C:\Users\Windows\Desktop\Aniket Gawade\day2\bin\Debug\day2.pdb
+C:\Users\Windows\Desktop\Aniket Gawade\day2\obj\Debug\day2.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Aniket Gawade\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Aniket Gawade\day2\obj\Debug\day2.exe
+C:\Users\Windows\Desktop\Aniket Gawade\day2\obj\Debug\day2.pdb

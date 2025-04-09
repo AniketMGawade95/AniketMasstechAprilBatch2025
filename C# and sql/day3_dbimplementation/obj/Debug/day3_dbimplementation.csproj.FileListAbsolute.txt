@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\Aniket Gawade\day3_dbimplementation\bin\Debug\day3_dbimplementation.exe.config
+C:\Users\Windows\Desktop\Aniket Gawade\day3_dbimplementation\bin\Debug\day3_dbimplementation.exe
+C:\Users\Windows\Desktop\Aniket Gawade\day3_dbimplementation\bin\Debug\day3_dbimplementation.pdb
+C:\Users\Windows\Desktop\Aniket Gawade\day3_dbimplementation\obj\Debug\day3_dbimplementation.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Aniket Gawade\day3_dbimplementation\obj\Debug\day3_dbimplementation.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Aniket Gawade\day3_dbimplementation\obj\Debug\day3_dbimplementation.exe
+C:\Users\Windows\Desktop\Aniket Gawade\day3_dbimplementation\obj\Debug\day3_dbimplementation.pdb
+C:\Users\Windows\Desktop\Aniket Gawade\C# and sql\day3_dbimplementation\bin\Debug\day3_dbimplementation.exe.config
+C:\Users\Windows\Desktop\Aniket Gawade\C# and sql\day3_dbimplementation\bin\Debug\day3_dbimplementation.exe
+C:\Users\Windows\Desktop\Aniket Gawade\C# and sql\day3_dbimplementation\bin\Debug\day3_dbimplementation.pdb
+C:\Users\Windows\Desktop\Aniket Gawade\C# and sql\day3_dbimplementation\obj\Debug\day3_dbimplementation.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Aniket Gawade\C# and sql\day3_dbimplementation\obj\Debug\day3_dbimplementation.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Aniket Gawade\C# and sql\day3_dbimplementation\obj\Debug\day3_dbimplementation.exe
+C:\Users\Windows\Desktop\Aniket Gawade\C# and sql\day3_dbimplementation\obj\Debug\day3_dbimplementation.pdb
